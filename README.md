@@ -1,4 +1,4 @@
-# EthosConnect example using [Next.js](https://nextjs.org/)
+# Ethos Connect example using [Next.js](https://nextjs.org/)
 
 This is a [Next.js](https://nextjs.org/) app written with [TypeScript](https://www.typescriptlang.org/) implementing [EthosConnect](https://ethoswallet.xyz/dev), the easiest way to connect with any wallet on Sui.
 
